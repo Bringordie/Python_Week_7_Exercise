@@ -12,4 +12,4 @@ Make a pie chart to show the amount of sports news, food news, music news and re
 
 4) Use Selenium to click into the first news article under "seneste nyt" and print the first parapgraph of the article.
 
-![alt text](https://imgur.com/a/e3M2rh6)
+![alt text](https://i.imgur.com/H0iye0S.png)
